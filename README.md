@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # meu-primeiro-app
 =======
+=======
+>>>>>>> ffad481b216d65543781d61f2778197463cdd6e8
 # MeuPrimeiroApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.6.
@@ -60,4 +63,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<<<<<<< HEAD
 >>>>>>> ffad481 (novo-projeto)
+=======
+>>>>>>> ffad481b216d65543781d61f2778197463cdd6e8
